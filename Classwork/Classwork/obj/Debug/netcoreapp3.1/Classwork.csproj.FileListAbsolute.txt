@@ -1,0 +1,5 @@
+C:\Users\tu7ngcsvr\Desktop\Shemi\Classwork\Classwork\obj\Debug\netcoreapp3.1\Classwork.csproj.AssemblyReference.cache
+C:\Users\tu7ngcsvr\Desktop\Shemi\Classwork\Classwork\obj\Debug\netcoreapp3.1\Classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu7ngcsvr\Desktop\Shemi\Classwork\Classwork\obj\Debug\netcoreapp3.1\Classwork.AssemblyInfoInputs.cache
+C:\Users\tu7ngcsvr\Desktop\Shemi\Classwork\Classwork\obj\Debug\netcoreapp3.1\Classwork.AssemblyInfo.cs
+C:\Users\tu7ngcsvr\Desktop\Shemi\Classwork\Classwork\obj\Debug\netcoreapp3.1\Classwork.csproj.CoreCompileInputs.cache
